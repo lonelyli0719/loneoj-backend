@@ -1,6 +1,6 @@
 package com.lone.loneoj.judge.strategy;
 
-import com.lone.loneoj.model.dto.questionsubmit.JudgeInfo;
+import com.lone.loneoj.judge.codesandbox.model.JudgeInfo;
 
 /**
  * 判题策略

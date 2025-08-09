@@ -4,7 +4,7 @@ import com.lone.loneoj.judge.strategy.DefaultJudgeStrategy;
 import com.lone.loneoj.judge.strategy.JavaLanguageJudgeStrategy;
 import com.lone.loneoj.judge.strategy.JudgeContext;
 import com.lone.loneoj.judge.strategy.JudgeStrategy;
-import com.lone.loneoj.model.dto.questionsubmit.JudgeInfo;
+import com.lone.loneoj.judge.codesandbox.model.JudgeInfo;
 import com.lone.loneoj.model.entity.QuestionSubmit;
 import org.springframework.stereotype.Service;
 

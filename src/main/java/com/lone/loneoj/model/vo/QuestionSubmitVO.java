@@ -3,7 +3,7 @@ package com.lone.loneoj.model.vo;
 import cn.hutool.json.JSONUtil;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;
-import com.lone.loneoj.model.dto.questionsubmit.JudgeInfo;
+import com.lone.loneoj.judge.codesandbox.model.JudgeInfo;
 import com.lone.loneoj.model.entity.QuestionSubmit;
 import lombok.Data;
 import org.springframework.beans.BeanUtils;

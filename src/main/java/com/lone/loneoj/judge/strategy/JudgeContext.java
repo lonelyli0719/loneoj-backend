@@ -1,7 +1,7 @@
 package com.lone.loneoj.judge.strategy;
 
 import com.lone.loneoj.model.dto.question.JudgeCase;
-import com.lone.loneoj.model.dto.questionsubmit.JudgeInfo;
+import com.lone.loneoj.judge.codesandbox.model.JudgeInfo;
 import com.lone.loneoj.model.entity.Question;
 import com.lone.loneoj.model.entity.QuestionSubmit;
 import lombok.Data;
